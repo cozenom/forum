@@ -4,7 +4,7 @@
   "description": "Project 2 for CS5610 Web Development",
   "main": "server/server.js",
   "author": "emile-f, cozenom",
-  "homepage": "https://cozenom.github.io/forum/",
+  "homepage": "https://emile-f.github.io/forum/",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/emile-f/forum/issues"
@@ -37,7 +37,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://cozenom.github.io/forum/"
+    "url": "git+https://github.com/emile-f/forum.git"
   },
   "scripts": {
     "start": "node server/app.js",
